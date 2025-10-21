@@ -221,7 +221,7 @@ python app.py
 - 🌐 **Mission**: Deploying cutting-edge AI to solve real-world challenges
 
 ### Connect for Quantum Innovation
-- 📧 **Email**: ojhanagendra04@gmail.com
+- 📧 **Email**: nagendraojha3152000@gmail.com
 - 💼 **LinkedIn**: [Nagendra Ojha](https://www.linkedin.com/in/nagendra-ojha-2k25/)
 - 🔗 **GitHub**: [nagendraojha](https://github.com/nagendraojha)
 - 🎯 **Availability**: Open to visionary AI projects and research collaborations
