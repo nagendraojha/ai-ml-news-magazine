@@ -1,0 +1,27 @@
+# Web framework and utilities
+flask==2.3.3
+requests==2.31.0
+python-dotenv==1.0.0
+urllib3==1.26.16
+
+# Parsing and rendering (wheels for recent Python on Windows)
+beautifulsoup4==4.12.2
+lxml>=5.2.1
+pillow>=11.0.0
+
+# Build tooling
+wheel==0.41.2
+setuptools==68.0.0
+
+# Numerical & similarity search
+numpy==2.0.1
+faiss-cpu==1.8.0
+
+# Near-duplicate and hashing
+datasketch==1.6.5
+xxhash==3.4.1
+simhash==2.1.2
+
+
+
+aiohttp>=3.8.0
