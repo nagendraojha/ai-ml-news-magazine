@@ -339,14 +339,15 @@ MISSION: "Bridging AI Research with Real-World Impact"
 
 ## 🎯 CLASSIFIED DOCUMENTATION
 
+## 🎯 CLASSIFIED DOCUMENTATION
+
 ### 📄 MISSION FILES & INTELLIGENCE
 
 | Document | Security Level | Description |
 |----------|---------------|-------------|
-| **[FULL MISSION REPORT](docs/AI-ML-DAILY-DIGEST.pdf)** | 🟡 RESTRICTED | Complete 93-page intelligence brief |
+| **[FULL MISSION REPORT](pdf/Neural-Feed-6060-Magazine%20(16).pdf)** | 🟡 RESTRICTED | Complete 93-page intelligence brief |
 | System Architecture | 🔴 TOP SECRET | Multi-agent deployment protocols |
 | API Documentation | 🟢 CONFIDENTIAL | Integration specifications |
-
 ### 🕹️ TERMINAL ACCESS
 ```bash
 # INITIATE_QUANTUM_NETWORK
