@@ -18,7 +18,7 @@ class ExtractorAgent:
         self.config = Config
         self.ollama = OllamaClient()
         self.logger = logging.getLogger(__name__)
-        self.model = "gemma3:1b"
+        self.model = "llama3.2:1b"
 
     def extract_stories(self, article: Dict) -> List[Dict]:
         """

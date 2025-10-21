@@ -39,7 +39,7 @@ app.config['SECRET_KEY'] = 'your-secret-key-here'
 
 # === LLM DYNAMIC ANALYSIS FUNCTIONS ===
 
-def analyze_article_impacts_with_ollama(article: Dict, model: str = "qwen3:4b") -> Dict:
+def analyze_article_impacts_with_ollama(article: Dict, model: str = "llama3.2:3b") -> Dict:
     """Use Ollama LLM to generate dynamic impact analysis for each article."""
     headline = article.get('headline', '')
     summary = article.get('summary', '')

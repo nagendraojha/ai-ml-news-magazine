@@ -15,7 +15,7 @@ class SummaryGenerator:
         self.config = Config
         self.ollama = OllamaClient()
         self.logger = logging.getLogger(__name__)
-        self.model = "qwen3:4b"
+        self.model = "llama3.2:3b"
 
     def _fetch_full_content(self, url: str) -> str:
         """

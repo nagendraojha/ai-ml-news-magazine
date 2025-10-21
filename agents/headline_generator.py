@@ -8,7 +8,7 @@ class HeadlineGenerator:
         self.config = Config
         self.ollama = OllamaClient()
         self.logger = logging.getLogger(__name__)
-        self.model = "qwen3:4b"
+        self.model = "llama3.2:1b"
     
     def generate_headline(self, article: Dict) -> str:
         """Generate compelling headline for article"""

@@ -64,7 +64,7 @@ class ContentFilter:
         "rlhf", "foundation model", "self-driving ai", "ai research", "ai paper", "ai model"
     ]
 
-    def __init__(self, batch_size: int = 10, model: str = "gemma3:1b"):
+    def __init__(self, batch_size: int = 10, model: str = "llama3.2:1b"):
         self.config = Config
         self.ollama = OllamaClient()
         self.logger = logging.getLogger("ContentFilter")
