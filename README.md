@@ -1,4 +1,4 @@
-# AI/ML Daily Magazine
+# AI/ML Daily News Magazine
 
 A professional AI/ML news magazine generator using multi-agent AI system.
 
