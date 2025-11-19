@@ -1,3 +1,56 @@
+<h2 align="center">AI/ML DAILY Magazine Pages</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/1.png" width="400px;" alt="AI/ML DAILY Cover"/>
+      <br />
+      <b>AI/ML DAILY Cover</b>
+    </td>
+    <td align="center">
+      <img src="images/2.png" width="400px;" alt="Processing Logs"/>
+      <br />
+      <b>Processing Logs</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/3.png" width="400px;" alt="Rival Daily Digest"/>
+      <br />
+      <b>Rival Daily Digest</b>
+    </td>
+    <td align="center">
+      <img src="images/4.png" width="400px;" alt="OpenAI Deepfakes Article"/>
+      <br />
+      <b>OpenAI Deepfakes Article</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/5.png" width="400px;" alt="Martha AI Article"/>
+      <br />
+      <b>Martha AI Article</b>
+    </td>
+    <td align="center">
+      <img src="images/6.png" width="400px;" alt="Biotech AI Article"/>
+      <br />
+      <b>Biotech AI Article</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/7.png" width="400px;" alt="Code Repositories"/>
+      <br />
+      <b>Code Repositories</b>
+    </td>
+    <td align="center">
+      <img src="images/8.png" width="400px;" alt="Contact Page"/>
+      <br />
+      <b>Contact Page</b>
+    </td>
+  </tr>
+</table>
+
 # 🚀 AI/ML DAILY DIGEST 2060 - QUANTUM INTELLIGENCE NETWORK
 
 > *"The future is not something we enter. The future is something we create."*
